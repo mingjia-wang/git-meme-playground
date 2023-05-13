@@ -4,7 +4,7 @@ import './Home.css';
 
 const Home = () => {
     return (
-    <div className='page'>
+    <div className='home-page'>
         <div className='top-box'>
             <h1 className='header'>Welcome to The Meme Playground!</h1>
             <div className='links-to-playgrounds'>

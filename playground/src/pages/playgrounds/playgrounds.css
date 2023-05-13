@@ -1,0 +1,25 @@
+.playground-page {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: scroll;
+}
+
+h1 {
+    margin-bottom: 200px;
+}
+
+.meme-list {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    width: 540px;
+    height: auto;
+    margin-bottom: 100px;
+}
