@@ -8,13 +8,13 @@ const NorCal = () => {
         <h1>Northern California's Top Memes:</h1>
         <div className='meme-list'>
             {
-                // memeData.norcalMemes.map((meme => {
-                //     <img src={meme}></img>
-                // }))
+                memeData.norcalMemes.map((meme => {
+                    return <img src={meme}></img>
+                }))
                 
-                memeData.norcalMemes.map(el => {
-                    return <p>{el}</p>
-                })
+                // memeData.norcalMemes.map(el => {
+                //     return <p>{el}</p>
+                // })
             }
 
         </div>

@@ -9,13 +9,13 @@ const International = () => {
             <h1>International Students' Top Memes:</h1>
             <div className='meme-list'>
             {
-                // memeData.norcalMemes.map((meme => {
-                //     <img src={meme}></img>
-                // }))
+                memeData.internationalMemes.map((meme => {
+                    return <img src={meme}></img>
+                }))
                 
-                memeData.internationalMemes.map(el => {
-                    return <p>{el}</p>
-                })
+                // memeData.internationalMemes.map(el => {
+                //     return <p>{el}</p>
+                // })
             }
         </div>
         </div>

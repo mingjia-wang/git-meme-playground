@@ -8,13 +8,13 @@ const OutOfState = () => {
             <h1>Out of State Students' Top Memes:</h1>
             <div className='meme-list'>
             {
-                // memeData.norcalMemes.map((meme => {
-                //     <img src={meme}></img>
-                // }))
+                memeData.outOfStateMemes.map((meme => {
+                    return <img src={meme}></img>
+                }))
                 
-                memeData.outOfStateMemes.map(el => {
-                    return <p>{el}</p>
-                })
+                // memeData.outOfStateMemes.map(el => {
+                //     return <p>{el}</p>
+                // })
             }
         </div>
         </div>
