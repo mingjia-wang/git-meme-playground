@@ -1,4 +1,4 @@
-# git-meme-playground
+The Git Meme Playground Activity
 
 ## Introduction
 Hi everyone! Welcome to the Meme Playground. This is a barebones web application that you can use to test your knowledge of Git and reinforce the things we mentioned in the workshop. You'll need to clone this repository, make changes, push them, and leave a permanent mark on the website. We have a room of people all trying to make changes at the same time. You'll get to see version control working in real time!
