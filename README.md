@@ -24,5 +24,5 @@ Now the repository is ready for you to make changes.
 5. Open the /git-meme-playground/playground/src/memes/memes.js and import the image with a line like `import [unique-name] from ./meme-images/[file-name]`.
 6. Scroll down in the file memes.js and add the meme (referencing it with the name you gave it when importing) to the appropriate array. (there are four arrays named norcalMemes, socalMemes, outOfStateMemes, and internationalMemes).
 7. Run `git add .`
-8. Run `git commit -m`, followed by a message, to commit your changes.
+8. Run `git commit -m`, followed by a message in quotes, to commit your changes.
 9. Run `git push` to push your changes to GitHub.
