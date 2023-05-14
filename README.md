@@ -16,7 +16,7 @@ Any changes you make (memes you add) will show up on the pages accessible throug
 
 Now the repository is ready for you to make changes.
 
-## Instructions for Adding Memes
+## Instructions for Adding a Meme
 1. Find your favorite meme and download it to your computer (.png, .jpeg, and .webp formats are all okay).
 2. Name the image file something descriptive.
 3. Run `git pull` to ensure that your local repo is up to date.
