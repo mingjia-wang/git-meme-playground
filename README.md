@@ -9,7 +9,7 @@ Here's how it will work. Each attendee belongs to 1 of 4 groups: **Norcal, Socal
 There is a home screen (shown below) with outgoing links that will take you to each group's page.
 <img src="homepage.png" width="500" height="320" />
 
-Any changes you make (memes you add) will show up on the pages accessible through these links.
+Any memes you add will show up on the pages accessible through these links.
 
 ## Setup
 1. Clone this repository onto your machine by running the `git clone` command as presented in the workshop.
