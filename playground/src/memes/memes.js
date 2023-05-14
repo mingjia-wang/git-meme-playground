@@ -16,6 +16,8 @@ import tired from './meme-images/tired.png';
 // import international memes here
 import butterfly from './meme-images/butterfly.jpeg';
 
+
+
 // ***** STEP #2 ******
 // Add your meme (using the name you gave it)
 // to the appropriate array below.
@@ -23,15 +25,19 @@ import butterfly from './meme-images/butterfly.jpeg';
 // before adding your new one, since array elements
 // must be separated by commas.
 const memeData = {
+
     norcalMemes: [
         thisIsFine
     ],
+
     socalMemes: [
         lateToWork
     ],
+
     outOfStateMemes: [
         tired,
     ],
+    
     internationalMemes: [
         butterfly
     ],
