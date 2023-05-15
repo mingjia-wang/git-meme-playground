@@ -12,6 +12,7 @@ import lateToWork from './meme-images/late_to_work.webp';
 
 // import out of state memes here
 import tired from './meme-images/tired.png';
+import mayaMeme from './meme-images/this-is-fine-2.jpeg';
 
 // import international memes here
 import butterfly from './meme-images/butterfly.jpeg';
@@ -36,6 +37,7 @@ const memeData = {
 
     outOfStateMemes: [
         tired,
+        mayaMeme
     ],
     
     internationalMemes: [
