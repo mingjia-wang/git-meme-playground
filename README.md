@@ -26,6 +26,3 @@ Now the repository is ready for you to make changes.
 7. Run `git add .`
 8. Run `git commit -m`, followed by a message in quotes, to commit your changes.
 9. Run `git push` to push your changes to GitHub.
-
-
-# Hello
