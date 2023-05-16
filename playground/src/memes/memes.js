@@ -6,6 +6,7 @@
 
 // import norcal memes here
 import thisIsFine from './meme-images/this-is-fine.jpeg';
+import BirdTriesToEatCapy from './meme-images/BirdTriesToEatCapy.png';
 
 // import socal memes here
 import lateToWork from './meme-images/late_to_work.webp';
@@ -27,7 +28,8 @@ import butterfly from './meme-images/butterfly.jpeg';
 const memeData = {
 
     norcalMemes: [
-        thisIsFine
+        thisIsFine,
+        BirdTriesToEatCapy
     ],
 
     socalMemes: [
