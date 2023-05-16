@@ -37,7 +37,7 @@ const memeData = {
 
     norcalMemes: [
         thisIsFine,
-        jaw-drop
+        jaw-drop,
         gru,
         kermit,
     ],
