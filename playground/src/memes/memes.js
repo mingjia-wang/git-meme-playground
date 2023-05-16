@@ -43,7 +43,7 @@ const memeData = {
     norcalMemes: [
         thisIsFine,
         concernedRaccoon,
-        pringles
+        pringles,
         jawDrop,
         gru,
         d6722a4066b5d1713792863f0bafbcc692f18628,
