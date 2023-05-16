@@ -7,6 +7,7 @@
 // import norcal memes here
 import thisIsFine from './meme-images/this-is-fine.jpeg';
 import gru from "./meme-images/gru.jpg";
+import kermit from "./meme-images/kermit.png";
 
 // import socal memes here
 import lateToWork from './meme-images/late_to_work.webp';
@@ -30,6 +31,7 @@ const memeData = {
     norcalMemes: [
         thisIsFine,
         gru,
+        kermit,
     ],
 
     socalMemes: [
