@@ -8,6 +8,7 @@
 import thisIsFine from './meme-images/this-is-fine.jpeg';
 import jaw-drop from './meme-images/jaw-drop.JPG';
 import gru from "./meme-images/gru.jpg";
+import kermit from "./meme-images/kermit.png";
 
 // import socal memes here
 import lateToWork from './meme-images/late_to_work.webp';
@@ -36,11 +37,10 @@ const memeData = {
 
     norcalMemes: [
         thisIsFine,
-<<<<<<< HEAD
         jaw-drop
-=======
         gru,
->>>>>>> d6722a4066b5d1713792863f0bafbcc692f18628
+        d6722a4066b5d1713792863f0bafbcc692f18628
+        kermit,
     ],
 
     socalMemes: [
