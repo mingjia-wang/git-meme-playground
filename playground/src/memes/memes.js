@@ -16,7 +16,7 @@ import tired from './meme-images/tired.png';
 
 // import international memes here
 import butterfly from './meme-images/butterfly.jpeg';
-import gustavo from './meme-images/the_meme.jpg'
+import gustavo from './meme-images/the_meme.jpg';
 
 
 
