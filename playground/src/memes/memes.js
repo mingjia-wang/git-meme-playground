@@ -6,6 +6,7 @@
 
 // import norcal memes here
 import thisIsFine from './meme-images/this-is-fine.jpeg';
+import jaw-drop from './meme-images/jaw-drop.JPG';
 import gru from "./meme-images/gru.jpg";
 
 // import socal memes here
@@ -21,6 +22,8 @@ import butterfly from './meme-images/butterfly.jpeg';
 
 
 
+
+
 // ***** STEP #2 ******
 // Add your meme (using the name you gave it)
 // to the appropriate array below.
@@ -31,7 +34,11 @@ const memeData = {
 
     norcalMemes: [
         thisIsFine,
+<<<<<<< HEAD
+        jaw-drop
+=======
         gru,
+>>>>>>> d6722a4066b5d1713792863f0bafbcc692f18628
     ],
 
     socalMemes: [
