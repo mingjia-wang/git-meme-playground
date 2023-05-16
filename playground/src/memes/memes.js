@@ -1,7 +1,7 @@
 // ***** STEP #1 ******
 // IMPORT MEME IMAGE FILES AT THE TOP OF THIS FILE
 // AFTER PUTTING THEM IN THE MEME-IMAGES FOLDER.
-// USE THE FOLLOWING FORMAT: 
+// USE THE FOLLOWING FORMAT:
 // 'import [give-meme-a-name] from ./meme-images/[actual-name-of-the-file];'
 
 // import norcal memes here
@@ -18,15 +18,14 @@ import workingAndCrying from './meme-images/workingAndCrying.jpg';
 import gitworkshopmeme from './meme-images/gitworkshopmeme';
 
 // import out of state memes here
-import tired from './meme-images/tired.png';
+import tired from './meme-images/tired.png'
 
 // import international memes here
-import butterfly from './meme-images/butterfly.jpeg';
-import gustavo from './meme-images/the_meme.jpg';
+import butterfly from './meme-images/butterfly.jpeg'
+import gustavo from './meme-images/the_meme.jpg'
 
-
-
-
+// import rochelle meme here
+import rochelle from './meme-images/rochelle.jpg'
 
 // ***** STEP #2 ******
 // Add your meme (using the name you gave it)
@@ -35,6 +34,7 @@ import gustavo from './meme-images/the_meme.jpg';
 // before adding your new one, since array elements
 // must be separated by commas.
 const memeData = {
+  norcalMemes: [thisIsFine, gru],
 
     norcalMemes: [
         thisIsFine,
@@ -61,5 +61,4 @@ const memeData = {
     ],
 };
 
-
-export default memeData;
+export default memeData
