@@ -9,6 +9,7 @@ import thisIsFine from './meme-images/this-is-fine.jpeg';
 
 // import socal memes here
 import lateToWork from './meme-images/late_to_work.webp';
+import sleep-deprived from './meme-images/sleep-deprived.jpg'
 
 // import out of state memes here
 import tired from './meme-images/tired.png';
@@ -32,6 +33,7 @@ const memeData = {
 
     socalMemes: [
         lateToWork
+        sleep-deprived
     ],
 
     outOfStateMemes: [
