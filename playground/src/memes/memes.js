@@ -1,23 +1,24 @@
 // ***** STEP #1 ******
 // IMPORT MEME IMAGE FILES AT THE TOP OF THIS FILE
 // AFTER PUTTING THEM IN THE MEME-IMAGES FOLDER.
-// USE THE FOLLOWING FORMAT: 
+// USE THE FOLLOWING FORMAT:
 // 'import [give-meme-a-name] from ./meme-images/[actual-name-of-the-file];'
 
 // import norcal memes here
-import thisIsFine from './meme-images/this-is-fine.jpeg';
-import gru from "./meme-images/gru.jpg";
+import thisIsFine from './meme-images/this-is-fine.jpeg'
+import gru from './meme-images/gru.jpg'
 
 // import socal memes here
-import lateToWork from './meme-images/late_to_work.webp';
+import lateToWork from './meme-images/late_to_work.webp'
 
 // import out of state memes here
-import tired from './meme-images/tired.png';
+import tired from './meme-images/tired.png'
 
 // import international memes here
-import butterfly from './meme-images/butterfly.jpeg';
+import butterfly from './meme-images/butterfly.jpeg'
 
-
+// import rochelle meme here
+import rochelle from './meme-images/rochelle.jpg'
 
 // ***** STEP #2 ******
 // Add your meme (using the name you gave it)
@@ -26,24 +27,13 @@ import butterfly from './meme-images/butterfly.jpeg';
 // before adding your new one, since array elements
 // must be separated by commas.
 const memeData = {
+  norcalMemes: [thisIsFine, gru],
 
-    norcalMemes: [
-        thisIsFine,
-        gru,
-    ],
+  socalMemes: [lateToWork, rochelle],
 
-    socalMemes: [
-        lateToWork
-    ],
+  outOfStateMemes: [tired],
 
-    outOfStateMemes: [
-        tired
-    ],
-    
-    internationalMemes: [
-        butterfly
-    ],
-};
+  internationalMemes: [butterfly],
+}
 
-
-export default memeData;
+export default memeData
