@@ -9,13 +9,14 @@ import thisIsFine from './meme-images/this-is-fine.jpeg';
 import jawDrop from './meme-images/jaw-drop.JPG';
 import gru from "./meme-images/gru.jpg";
 import kermit from "./meme-images/kermit.png";
+import BirdTriesToEatCapy from './meme-images/BirdTriesToEatCapy.png';
 
 // import socal memes here
 import lateToWork from './meme-images/late_to_work.webp';
 import socalWhenItRains from './meme-images/socal-meme-rain.png';
 import sleepDeprived from './meme-images/sleep-deprived.jpg';
 import workingAndCrying from './meme-images/workingAndCrying.jpg';
-import gitworkshopmeme from './meme-images/gitworkshopmeme';
+import gitworkshopmeme from './meme-images/gitworkshopmeme.png';
 import gitWorkshopExpandingBrain from './meme-images/git-workshop-expanding-brain.png';
 import loggers from './meme-images/loggers.png';
 
@@ -43,6 +44,7 @@ const memeData = {
         jawDrop,
         gru,
         kermit,
+        BirdTriesToEatCapy
     ],
 
     socalMemes: [
