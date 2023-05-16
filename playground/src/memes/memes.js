@@ -16,6 +16,7 @@ import socalWhenItRains from './meme-images/socal-meme-rain.png';
 import sleepDeprived from './meme-images/sleep-deprived.jpg';
 import workingAndCrying from './meme-images/workingAndCrying.jpg';
 import gitworkshopmeme from './meme-images/gitworkshopmeme';
+import gitWorkshopExpandingBrain from './meme-images/git-workshop-expanding-brain.png';
 
 // import out of state memes here
 import tired from './meme-images/tired.png'
@@ -49,6 +50,7 @@ const memeData = {
         sleepDeprived,
         workingAndCrying,
         gitworkshopmeme,
+        gitWorkshopExpandingBrain,
     ],
 
     outOfStateMemes: [
