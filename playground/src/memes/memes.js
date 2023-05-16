@@ -14,6 +14,7 @@ import kermit from './meme-images/kermit.png'
 import lateToWork from './meme-images/late_to_work.webp'
 import socalWhenItRains from './meme-images/socal-meme-rain.png'
 import sleepDeprived from './meme-images/sleep-deprived.jpg'
+import gitworkshopmeme from './meme-images/gitworkshopmeme'
 
 // import out of state memes here
 import tired from './meme-images/tired.png'
@@ -34,9 +35,9 @@ import rochelle from './meme-images/rochelle.jpg'
 const memeData = {
   norcalMemes: [thisIsFine, gru],
 
-  norcalMemes: [thisIsFine, jawDrop, gru, kermit],
+  norcalMemes: [thisIsFine, jaw - drop, gru, kermit],
 
-  outOfStateMemes: [tired],
+  socalMemes: [lateToWork, gitworkshopmeme],
 
   internationalMemes: [butterfly],
 }
