@@ -7,9 +7,11 @@
 // import norcal memes here
 import thisIsFine from './meme-images/this-is-fine.jpeg';
 import jaw-drop from './meme-images/jaw-drop.JPG';
+import gru from "./meme-images/gru.jpg";
 
 // import socal memes here
 import lateToWork from './meme-images/late_to_work.webp';
+import sleep-deprived from './meme-images/sleep-deprived.jpg'
 
 // import out of state memes here
 import tired from './meme-images/tired.png';
@@ -31,11 +33,16 @@ const memeData = {
 
     norcalMemes: [
         thisIsFine,
+<<<<<<< HEAD
         jaw-drop
+=======
+        gru,
+>>>>>>> d6722a4066b5d1713792863f0bafbcc692f18628
     ],
 
     socalMemes: [
         lateToWork
+        sleep-deprived
     ],
 
     outOfStateMemes: [
