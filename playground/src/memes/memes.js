@@ -6,6 +6,7 @@
 
 // import norcal memes here
 import thisIsFine from './meme-images/this-is-fine.jpeg';
+import jaw-drop from './meme-images/jaw-drop.JPG';
 
 // import socal memes here
 import lateToWork from './meme-images/late_to_work.webp';
@@ -18,6 +19,8 @@ import butterfly from './meme-images/butterfly.jpeg';
 
 
 
+
+
 // ***** STEP #2 ******
 // Add your meme (using the name you gave it)
 // to the appropriate array below.
@@ -27,7 +30,8 @@ import butterfly from './meme-images/butterfly.jpeg';
 const memeData = {
 
     norcalMemes: [
-        thisIsFine
+        thisIsFine,
+        jaw-drop
     ],
 
     socalMemes: [
