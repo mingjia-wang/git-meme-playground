@@ -16,7 +16,7 @@ import lateToWork from './meme-images/late_to_work.webp';
 import socalWhenItRains from './meme-images/socal-meme-rain.png';
 import sleepDeprived from './meme-images/sleep-deprived.jpg';
 import workingAndCrying from './meme-images/workingAndCrying.jpg';
-import gitworkshopmeme from './meme-images/gitworkshopmeme';
+import gitworkshopmeme from './meme-images/gitworkshopmeme.png';
 import gitWorkshopExpandingBrain from './meme-images/git-workshop-expanding-brain.png';
 
 // import out of state memes here
@@ -42,7 +42,6 @@ const memeData = {
         thisIsFine,
         jawDrop,
         gru,
-        d6722a4066b5d1713792863f0bafbcc692f18628,
         kermit,
         BirdTriesToEatCapy
     ],
