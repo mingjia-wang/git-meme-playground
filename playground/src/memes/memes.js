@@ -13,6 +13,7 @@ import gru from "./meme-images/gru.jpg";
 import lateToWork from './meme-images/late_to_work.webp';
 import socalWhenItRains from './meme-images/socal-meme-rain.png';
 import sleepDeprived from './meme-images/sleep-deprived.jpg';
+import gitworkshopmeme from './meme-images/gitworkshopmeme';
 
 // import out of state memes here
 import tired from './meme-images/tired.png';
@@ -43,7 +44,8 @@ const memeData = {
     ],
 
     socalMemes: [
-        lateToWork
+        lateToWork,
+        gitworkshopmeme
     ],
 
     outOfStateMemes: [
