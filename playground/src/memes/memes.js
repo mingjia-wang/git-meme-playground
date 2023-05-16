@@ -7,6 +7,10 @@
 // import norcal memes here
 import thisIsFine from './meme-images/this-is-fine.jpeg';
 
+// Raccon mem
+import concernedRaccoon from './meme-images/concerned_raccoon.jpeg'
+import pringles from './meme-images/me_after_week5.jpeg'
+
 // import socal memes here
 import lateToWork from './meme-images/late_to_work.webp';
 
@@ -27,7 +31,9 @@ import butterfly from './meme-images/butterfly.jpeg';
 const memeData = {
 
     norcalMemes: [
-        thisIsFine
+        thisIsFine,
+        concernedRaccoon,
+        pringles
     ],
 
     socalMemes: [
