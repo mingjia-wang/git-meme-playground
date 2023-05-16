@@ -6,16 +6,21 @@
 
 // import norcal memes here
 import thisIsFine from './meme-images/this-is-fine.jpeg'
+import jawDrop from './meme-images/jaw-drop.JPG'
 import gru from './meme-images/gru.jpg'
+import kermit from './meme-images/kermit.png'
 
 // import socal memes here
 import lateToWork from './meme-images/late_to_work.webp'
+import socalWhenItRains from './meme-images/socal-meme-rain.png'
+import sleepDeprived from './meme-images/sleep-deprived.jpg'
 
 // import out of state memes here
 import tired from './meme-images/tired.png'
 
 // import international memes here
 import butterfly from './meme-images/butterfly.jpeg'
+import gustavo from './meme-images/the_meme.jpg'
 
 // import rochelle meme here
 import rochelle from './meme-images/rochelle.jpg'
@@ -29,7 +34,7 @@ import rochelle from './meme-images/rochelle.jpg'
 const memeData = {
   norcalMemes: [thisIsFine, gru],
 
-  socalMemes: [lateToWork, rochelle],
+  norcalMemes: [thisIsFine, jawDrop, gru, kermit],
 
   outOfStateMemes: [tired],
 

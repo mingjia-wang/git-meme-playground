@@ -11,12 +11,8 @@ const SoCal = () => {
                 memeData.socalMemes.map((meme => {
                     return <img src={meme}></img>
                 }))
-                
-                // memeData.socalMemes.map(el => {
-                //     return <p>{el}</p>
-                // })
             }
-        </div>
+            </div>
         </div>
         );
 };
